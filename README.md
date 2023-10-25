@@ -10,7 +10,7 @@ Languages: Java, Python, HTML, CSS, C, Swift, Typescript, Javascript, Arduino, S
 - :hammer: I’m currently working on converting App Inventor's Charts and Spreadsheet component to Swift.
 - :school: I’m currently learning machine learning!
 - 📫 Email: lexue28@gmail.com
-- :rat: Fun fact: I have a pet rat named Remy after Ratatouille
+- :rat: Fun fact: I have a pet rat named Remy after the movie Ratatouille
 
 Published Websites: <br>
 Band Website - http://youthbcma.us/ <br>
