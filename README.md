@@ -1,7 +1,7 @@
 ### Hi there, I'm Linda, currently a freshman at MIT! Nice to meet you!👋
 
 MIT Spoken Language Systems Group - Undergraduate Researcher <br>
-HackMIT - Development Team <br>
+HackMIT - Development Team Leader <br>
 MIT Arcturus Robotics - Development Team <br>
 MIT App Inventor - Development Team <br>
 Youth Boston Chinese Musicans Orchestra - Website Developer and Section Leader <br>
