@@ -1,4 +1,4 @@
-### Hi there, I'm Linda, currently a freshman at MIT! Nice to meet you!👋
+### Hi there, I'm Linda, currently a sophomore at MIT! Nice to meet you!👋
 
 MIT Spoken Language Systems Group - Undergraduate Researcher <br>
 HackMIT - Development Team Leader <br>
