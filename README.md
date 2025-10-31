@@ -1,4 +1,4 @@
-### Hi there, I'm Linda, currently a sophomore at MIT! Nice to meet you!👋
+### Hi there, I'm Linda, currently studying at MIT! Nice to meet you!👋
 
 Politecnico di Milano Data Science Lab - Research Intern <br>
 MIT Spoken Language Systems Group - Undergraduate Researcher <br>
