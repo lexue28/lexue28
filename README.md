@@ -14,5 +14,6 @@ Languages: Java, Python, HTML, CSS, C, Swift, Typescript, Javascript, Arduino, S
 - 🎵: Fun fact: I play 5 traditional Chinese instruments, my favorite being the Zhongruan.
 
 Published Websites: <br>
+HackMIT Puzzle Page - https://coolhackgames.hackmit.org/
 Band Website - http://youthbcma.us/ <br>
 Personal Project - https://chinese-music-transposer.onrender.com/ <br>
